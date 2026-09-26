@@ -1,0 +1,6 @@
+{
+  "name": "FASLYNK — Farm to Fair Price",
+  "description": "Algorithmic agricultural exchange linking farmers directly with verified institutional buyers with ML quality grading and guaranteed smart escrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
